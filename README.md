@@ -7,7 +7,7 @@
   - [Resturant Reccomendation App (SpringBoot)](https://github.com/AkashSivapalan/RestaurantRecommendationBackend)
   - [Bank Customer Management System](https://github.com/RansikaP/Bank-Customer-Management-System)
 - <b>Full Stack Web App (React, NodeJS, JavaScript)</b>
-  - [Task Manager](https://github.com/RansikaP/task-manager-backend)
+  - [Project Manager](https://github.com/RansikaP/project-manager)
 - <b>Machine Learning, Computer Vision, & Data Science</b>
   - [ML-Algorithm Implementation](https://github.com/RansikaP/ML-Algorithms)
   - [Road Lane-Detection using MATLAB](https://github.com/RansikaP/Lane-Detection-using-MATLAB)
