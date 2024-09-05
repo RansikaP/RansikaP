@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
-  - [HTTP Server](https://github.com/RansikaP/ccodecrafters-http-server-java)
+  
   - [Resturant Reccomendation App (SpringBoot)](https://github.com/AkashSivapalan/RestaurantRecommendationBackend)
   - [Bank Customer Management System](https://github.com/RansikaP/Bank-Customer-Management-System)
 - <b>Full Stack Web App (React, NodeJS, JavaScript)</b>
@@ -15,6 +15,9 @@
   - [Hospital Management System](https://github.com/RansikaP/Hospital-Management-System)
 - <b>C</b>
   - [Peer-to-Peer Content Downloader](https://github.com/RansikaP/coe768-project)
+- <b>CodeCrafters</b>
+  - [grep](https://github.com/RansikaP/codecrafters-grep-python)
+  - [HTTP Server](https://github.com/RansikaP/ccodecrafters-http-server-java)
 
 <h2> 🤳 Connect with me:</h2>
 
