@@ -4,7 +4,9 @@
 
 - <b>Java</b>
   
-  - [Resturant Reccomendation App (SpringBoot)](https://github.com/AkashSivapalan/RestaurantRecommendationBackend)
+  - <b>Resturant Reccomendation App (SpringBoot)</b>
+    -  [Backend](https://github.com/AkashSivapalan/RestaurantRecommendationBackend)
+    -  [Frontend](https://github.com/AkashSivapalan/RestaurantAppFE)
   - [Bank Customer Management System](https://github.com/RansikaP/Bank-Customer-Management-System)
 - <b>Full Stack Web App (React, NodeJS, JavaScript)</b>
   - [Project Manager](https://github.com/RansikaP/project-manager)
