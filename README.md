@@ -8,8 +8,9 @@
     -  [Backend](https://github.com/AkashSivapalan/RestaurantRecommendationBackend)
     -  [Frontend](https://github.com/AkashSivapalan/RestaurantAppFE)
   - [Bank Customer Management System](https://github.com/RansikaP/Bank-Customer-Management-System)
-- <b>Full Stack Web App (React, NodeJS, JavaScript)</b>
+- <b>Full Stack Web App (React, NodeJS, JavaScript, ect,)</b>
   - [Project Manager](https://github.com/RansikaP/project-manager)
+  - [Real Time Chat App](https://github.com/RansikaP/chatapp/tree/main)
 - <b>Machine Learning, Computer Vision, & Data Science</b>
   - [ML-Algorithm Implementation](https://github.com/RansikaP/ML-Algorithms)
   - [Road Lane-Detection using MATLAB](https://github.com/RansikaP/Lane-Detection-using-MATLAB)
@@ -18,7 +19,7 @@
 - <b>C</b>
   - [Peer-to-Peer Content Downloader](https://github.com/RansikaP/coe768-project)
 - <b>CodeCrafters</b>
-  - [grep](https://github.com/RansikaP/codecrafters-grep-python)
+  <!-- - [grep](https://github.com/RansikaP/codecrafters-grep-python) -->
   - [HTTP Server](https://github.com/RansikaP/ccodecrafters-http-server-java)
 
 <h2> 🤳 Connect with me:</h2>
