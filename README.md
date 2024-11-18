@@ -11,9 +11,6 @@
 - <b>Full Stack Web App (React, NodeJS, JavaScript, ect,)</b>
   - [Project Manager](https://github.com/RansikaP/project-manager)
   - [Real Time Chat App](https://github.com/RansikaP/chatapp/tree/main)
-- <b>Machine Learning, Computer Vision, & Data Science</b>
-  - [ML-Algorithm Implementation](https://github.com/RansikaP/ML-Algorithms)
-  - [Road Lane-Detection using MATLAB](https://github.com/RansikaP/Lane-Detection-using-MATLAB)
 - <b>SQL</b>
   - [Hospital Management System](https://github.com/RansikaP/Hospital-Management-System)
 - <b>C</b>
@@ -21,6 +18,9 @@
 - <b>CodeCrafters</b>
   <!-- - [grep](https://github.com/RansikaP/codecrafters-grep-python) -->
   - [HTTP Server](https://github.com/RansikaP/ccodecrafters-http-server-java)
+- <b>Machine Learning, Computer Vision, & Data Science</b>
+  - [ML-Algorithm Implementation](https://github.com/RansikaP/ML-Algorithms)
+  - [Road Lane-Detection using MATLAB](https://github.com/RansikaP/Lane-Detection-using-MATLAB)
 
 <h2> 🤳 Connect with me:</h2>
 
