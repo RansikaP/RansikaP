@@ -8,9 +8,10 @@
     -  [Backend](https://github.com/AkashSivapalan/RestaurantRecommendationBackend)
     -  [Frontend](https://github.com/AkashSivapalan/RestaurantAppFE)
   - [Bank Customer Management System](https://github.com/RansikaP/Bank-Customer-Management-System)
-- <b>Full Stack Web App (React, NodeJS, JavaScript, ect,)</b>
+- <b>Full Stack Web App (React, Vue.js, NodeJS, JavaScript, ect,)</b>
   - [Project Manager](https://github.com/RansikaP/project-manager)
   - [Real Time Chat App](https://github.com/RansikaP/chatapp/tree/main)
+  - [Vue Job Portal](https://github.com/RansikaP/vue-job-portal/tree/main)
 - <b>SQL</b>
   - [Hospital Management System](https://github.com/RansikaP/Hospital-Management-System)
 - <b>C</b>
